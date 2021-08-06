@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Dexa Pro Expanded';
+    src: url('DexaProExpanded-ExtBdIta.eot');
+    src: url('DexaProExpanded-ExtBdIta.eot?#iefix') format('embedded-opentype'),
+        url('DexaProExpanded-ExtBdIta.woff2') format('woff2'),
+        url('DexaProExpanded-ExtBdIta.woff') format('woff'),
+        url('DexaProExpanded-ExtBdIta.ttf') format('truetype'),
+        url('DexaProExpanded-ExtBdIta.svg#DexaProExpanded-ExtBdIta') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Pro Expanded';
+    src: url('DexaProExpanded-BlackItalic.eot');
+    src: url('DexaProExpanded-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaProExpanded-BlackItalic.woff2') format('woff2'),
+        url('DexaProExpanded-BlackItalic.woff') format('woff'),
+        url('DexaProExpanded-BlackItalic.ttf') format('truetype'),
+        url('DexaProExpanded-BlackItalic.svg#DexaProExpanded-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Pro Expanded';
+    src: url('DexaProExpanded-Bold.eot');
+    src: url('DexaProExpanded-Bold.eot?#iefix') format('embedded-opentype'),
+        url('DexaProExpanded-Bold.woff2') format('woff2'),
+        url('DexaProExpanded-Bold.woff') format('woff'),
+        url('DexaProExpanded-Bold.ttf') format('truetype'),
+        url('DexaProExpanded-Bold.svg#DexaProExpanded-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Pro Expanded';
+    src: url('DexaProExpanded-SemiBold.eot');
+    src: url('DexaProExpanded-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('DexaProExpanded-SemiBold.woff2') format('woff2'),
+        url('DexaProExpanded-SemiBold.woff') format('woff'),
+        url('DexaProExpanded-SemiBold.ttf') format('truetype'),
+        url('DexaProExpanded-SemiBold.svg#DexaProExpanded-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Pro';
+    src: url('DexaPro-Medium.eot');
+    src: url('DexaPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('DexaPro-Medium.woff2') format('woff2'),
+        url('DexaPro-Medium.woff') format('woff'),
+        url('DexaPro-Medium.ttf') format('truetype'),
+        url('DexaPro-Medium.svg#DexaPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
