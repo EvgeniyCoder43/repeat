@@ -39,17 +39,18 @@
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 800;
-		font-size: 48px;
+		font-size: 6.751vh;
 		color: #FFC120;
 		text-shadow: 0px 0px 35px #FFD918;
 		margin-top: -0.3vh;
 		margin-bottom: -0.3vh;
+		margin-left: -0.7vw;
 	}
 	h2{
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 800;
-		font-size: 14px;
+		font-size: 1.96vh;
 		line-height: 45.7%;
 		/* or 6px */
 		letter-spacing: 0.065em;
@@ -58,19 +59,23 @@
 		margin-bottom: 5.3vh;
 	}
 	.list-zone{
-		min-height: 52.74vh;
+		height: 52.74vh;
 		width: 100vw;
-		background-image: url(../img/list.png);
 		background-size: cover;
 		margin-left: -6.9vw;
 		padding-left: 6.9vw;
-		padding-top: 10.91vh;
+	}
+	.list-img{
+		width: 100vw;
+		margin-bottom: -52.74vh;
+		margin-left: -6.9vw;
+		height: 52.4vh;
 	}
 	.title{
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 800;
-		font-size: 24px;
+		font-size: 3.37vh;
 		line-height: 139.2%;
 		/* or 33px */
 		letter-spacing: 0.01em;
@@ -82,14 +87,11 @@
 		font-family: Dexa Pro;
 		font-style: normal;
 		font-weight: normal;
-		font-size: 18px;
+		font-size: 1.96vh;
 		line-height: 115.7%;
 		/* or 21px */
 		color: #8C8C8C;
 		padding-top: 1.68vh;
-	}
-	.list-price{
-		margin-bottom: 3vh;
 	}
 	.black{
 		color: #626262;
@@ -144,13 +146,13 @@
 		border-radius: 9px;
 		width: 86.2vw;
 		cursor: pointer;
-		height: 8vh;
+		height: 10vh;
 		text-align: center;
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 600;
 		font-size: 2vh;
-		padding-top: 2.3vh;
+		padding-top: 3.3vh;
 		letter-spacing: 0.04em;
 		text-transform: uppercase;
 
@@ -171,7 +173,7 @@
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 900;
-		font-size: 24px;
+		font-size: 3.37vh;
 		line-height: 109.2%;
 		/* or 26px */
 		letter-spacing: 0.04em;
@@ -183,7 +185,7 @@
 		font-family: Dexa Pro;
 		font-style: normal;
 		font-weight: 500;
-		font-size: 18px;
+		font-size: 1.96vh;
 		line-height: 105.2%;
 		/* or 19px */
 		color: #F9F9F9;
@@ -191,7 +193,7 @@
 	}
 	.button-in-popup{
 		width: 100%;
-		height: 66px;
+		height: 9.28vh;
 		box-shadow: 0px 0px 15px rgba(255, 217, 24, 0.8);
 		background: #141414;
 		border: 2px solid #FFC120;
@@ -210,7 +212,7 @@
 		font-family: Dexa Pro Expanded;
 		font-style: normal;
 		font-weight: 600;
-		font-size: 18px;
+		font-size: 1.96vh;
 		line-height: 22px;
 		letter-spacing: 0.04em;
 		text-transform: uppercase;
